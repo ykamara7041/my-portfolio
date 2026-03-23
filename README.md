@@ -8,7 +8,7 @@ This project demonstrates my ability to use GitHub, version control, and web hos
 
 ## 🚀 Live Website
 Click here to view my website:
-https://github.com/ykamara7041/my-portfolio
+https://ykamara7041.github.io/my-portfolio/
 
 ## 🛠️ Technologies Used
 - HTML
