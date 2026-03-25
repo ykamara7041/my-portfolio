@@ -12,7 +12,6 @@ https://ykamara7041.github.io/my-portfolio/
 
 ## 🛠️ Technologies Used
 - HTML
-- CSS
 - Git & GitHub
 
 ## 📚 What I Learned
