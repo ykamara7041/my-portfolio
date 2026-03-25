@@ -23,7 +23,7 @@ A professional personal profile page demonstrating:
 
 ## 🚀 Live Website
 Visit my live portfolio:
-https://yourusername.github.io/my-portfolio/
+https://ykamara7041.github.io/my-portfolio/
 
 ## 🛠️ Technologies Used
 - HTML5
